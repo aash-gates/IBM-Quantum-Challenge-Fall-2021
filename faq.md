@@ -7,3 +7,4 @@ Within each exercise notebook, on the [challenge portal](http://ibm.co/challenge
 ```python
 # Submit your answer using following code
 from qc_grader import grade_ex1a
+grade_ex1a(qiskit_module_names)
