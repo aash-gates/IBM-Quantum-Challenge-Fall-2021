@@ -41,3 +41,4 @@ Please try the following on a notebook on Quantum Lab?
 import os
 os.environ['QXToken'] = 'your token'
 print(os.getenv('QXToken'))
+```
