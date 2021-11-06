@@ -30,3 +30,4 @@ We encourage you complete the exercises in the given order as this is the intend
 
 Yes, you'll need an IBMid associated with your IBM Quantum account in order to complete some of the challenges. If you don't already have one, please [register a new IBMid](https://auth.quantum-computing.ibm.com/auth/idaas) using the SAME email address associated with your IBM Quantum account. If you have any questions or face any issues, please let us know in the [#challenge-fall-2021](https://ibm.co/IQC21F_Slack) Slack channel.
 
+#### I encountered “Server error”. What should I do?
