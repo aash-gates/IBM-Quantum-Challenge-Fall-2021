@@ -27,3 +27,4 @@ from qiskit import QuantumCircuit, QuantumRegister
 def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> QuantumCircuit:
     # TODO 4: add your name and score here
     # print name and score
+    author = 'Firstname Lastname'
