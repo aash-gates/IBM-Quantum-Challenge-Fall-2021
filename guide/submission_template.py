@@ -111,3 +111,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
 
     ##############################
     ### TODO ###
+    ### Paste your code from above cells here ###
