@@ -48,3 +48,4 @@ Run the code below to check if authentication is working. If you see a long stri
 
 ```python
 from qc_grader.api import get_access_token
+get_access_token()
