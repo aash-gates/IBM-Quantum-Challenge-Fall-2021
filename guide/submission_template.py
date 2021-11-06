@@ -13,3 +13,4 @@ the techniques that gave you the biggest improvement
 and explain the implementation in comments
 
 # TODO 2: write summary of your approach
+# TODO 2: please highlight the techniques that gave you the biggest improvement
