@@ -17,3 +17,4 @@ Yes it is possible. But we strongly recommend you solve the exercises on the [ch
 #### Can we check answers on a local computer?
 
 Yes it is possible. But similar to the above question, we strongly recommend you solve the exercises and check answers on the [challenge portal](http://ibm.co/challenge-fall-21). If you really want to check answers on a local computer, you need to install the [grading client](https://github.com/qiskit-community/Quantum-Challenge-Grader) in addition to downloading the notebooks.
+
