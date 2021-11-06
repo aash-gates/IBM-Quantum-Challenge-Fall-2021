@@ -21,3 +21,4 @@ Summary of the approach:
 
 """
 # TODO 3: import all required libraries and modules
+from qiskit import QuantumCircuit, QuantumRegister
