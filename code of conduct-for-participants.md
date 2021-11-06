@@ -20,4 +20,5 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 Throughout the event, in the case that you may encounter any offensive behavior or violations of the Qiskit Community Code of Conduct, we encourage you to report the violation by submitting [this form](https://airtable.com/shrl5mEF4Eun1aIDm). All reports are treated with the strictest level of confidentiality, and we have an absolute zero-tolerance policy on any form of retaliation.
 
 The events team, admins, and moderators are all here to support the event and community - so please feel comfortable reaching out directly with any questions, concerns, or reports as well.
+
 This community continues to be open, friendly, and welcoming, and with your support, we will be able to maintain that throughout this event, and also in the years to come.  Thank you!
