@@ -140,3 +140,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
         qc.append(cost_calculation(index_qubits, data_qubits, C1, C2), qr_index[:] + qr_data[:])
 
         ### step 2: Constraint testing ###
+        qc.append(constraint_testing(data_qubits, C_max), qr_data[:] + qr_f[:])
