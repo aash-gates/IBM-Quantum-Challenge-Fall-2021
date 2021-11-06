@@ -12,3 +12,4 @@ the techniques that gave you the biggest improvement
 5. Copy code to each sub-functions (e.g.phase_return, subroutine_add_constant)
 and explain the implementation in comments
 
+# TODO 2: write summary of your approach
