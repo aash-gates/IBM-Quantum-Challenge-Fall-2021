@@ -21,3 +21,4 @@ Yes it is possible. But similar to the above question, we strongly recommend you
 #### Do we need to download the notebooks from github?
 
 No, you can run all exercises on the [challenge portal](http://ibm.co/challenge-fall-21) itself.
+
