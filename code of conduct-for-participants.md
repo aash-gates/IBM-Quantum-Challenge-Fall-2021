@@ -15,3 +15,4 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 - **Be Respectful:** Respect each other, & use respectful language
 - **Be Positive:** Assume the best intentions, & have forward-looking outlook
 - **Be Honest:** To ensure a positive learning experience for everyone, do not share the answers to the exercises with any participant or publicly within the Slack channel. We are all here to learn & have fun together!
+- **Be You!!!** Share about yourself and your goals, be real, be genuine, & let yourself be comfortable
