@@ -40,3 +40,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
     # the number of qubits representing data values can be defined using the maximum possible total cost as follows:
     data_qubits = math.ceil(math.log(max_c, 2)) + 1 if not max_c & (max_c - 1) == 0 else math.ceil(
         math.log(max_c, 2)) + 2
+
