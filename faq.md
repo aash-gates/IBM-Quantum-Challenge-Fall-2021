@@ -59,3 +59,4 @@ You will receive the IBM Quantum Challenge Fall 2021 Achievement digital badge f
 We will have hosted YouTube Live lectures for four application modules prior to the challenge start. 
 - [Part 1 - October 8 at 10:00 AM (EDT)](https://youtu.be/claoY57eVIc): Qiskit Optimization & Machine Learning Demo Session with Atsushi Matsuo & Anton Dekusar
 - [Part 2 - October 15 at 10:00 AM (EDT)](https://youtu.be/UtMVoGXlz04): Qiskit Nature & Finance Demo Session with Max Rossmannek & Julien Gacon
+
