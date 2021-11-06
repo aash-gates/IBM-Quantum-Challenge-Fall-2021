@@ -15,3 +15,4 @@ num_ao = {
 * Use the get_property function to get properties from `ElectronicEnergy`. Make sure that the **driver is reduced**.
 * [See this tutorial doc on Property framework](https://qiskit.org/documentation/nature/tutorials/08_property_framework.html)
 * Try to find out how you can use property framework to get `ParticleNumber`.
+* Use the `ParticleNumber` to find out the number of electrons, MO, SO, and number of qubits.
