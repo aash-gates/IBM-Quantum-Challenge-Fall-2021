@@ -142,3 +142,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
         ### step 2: Constraint testing ###
         qc.append(constraint_testing(data_qubits, C_max), qr_data[:] + qr_f[:])
 
+        ### step 3: penalty dephasing ###
