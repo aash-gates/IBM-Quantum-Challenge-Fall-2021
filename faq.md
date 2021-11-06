@@ -39,3 +39,4 @@ We have a lot of participants at the moment. Please be patient, wait and try aga
 Please try the following on a notebook on Quantum Lab?
 ```python
 import os
+os.environ['QXToken'] = 'your token'
