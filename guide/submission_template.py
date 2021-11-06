@@ -147,4 +147,5 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
 
         ### step 4: reinitialization ###
         qc.append(reinitialization(index_qubits, data_qubits, C1, C2, C_max), qr_index[:] + qr_data[:] + qr_f[:])
+
         ### mixing operator ###
