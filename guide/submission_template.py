@@ -145,3 +145,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
         ### step 3: penalty dephasing ###
         qc.append(penalty_dephasing(data_qubits, alpha, gamma), qr_data[:] + qr_f[:])
 
+        ### step 4: reinitialization ###
