@@ -7,3 +7,4 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 [Click here to Review Qiskit Community Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md#our-pledge)
 
 *As this event is a challenge, sharing solutions/answers is strictly forbidden and can lead to potential disqualification from the event. We encourage you to ask questions in the dedicated Slack channel [#challenge-fall-2021](https://ibm.co/IQC21F_Slack) if you need additional guidance.*
+
