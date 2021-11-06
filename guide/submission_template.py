@@ -5,3 +5,4 @@ Score: 312345 # TODO 1: change to your score
 
 TODO:
 1. Add author name, email and score at the top of the file
+2. Write a summary of your approach in the header and highlight
