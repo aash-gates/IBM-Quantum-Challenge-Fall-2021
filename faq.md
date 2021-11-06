@@ -9,3 +9,4 @@ Within each exercise notebook, on the [challenge portal](http://ibm.co/challenge
 from qc_grader import grade_ex1a
 grade_ex1a(qiskit_module_names)
 ```
+
