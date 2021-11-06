@@ -51,3 +51,4 @@ from qc_grader.api import get_access_token
 get_access_token()
 ```
 
+#### Will I receive a badge and what are the qualifications?
