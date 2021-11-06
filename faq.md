@@ -32,3 +32,4 @@ Yes, you'll need an IBMid associated with your IBM Quantum account in order to c
 
 #### I encountered “Server error”. What should I do?
 
+We have a lot of participants at the moment. Please be patient, wait and try again.
