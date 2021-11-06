@@ -129,3 +129,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
     p = 5
     alpha = 1
     for i in range(p):
+        ### set fixed parameters for each round ###
