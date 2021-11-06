@@ -126,3 +126,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
     qc.h(qr_index)
 
     ### DO NOT CHANGE THE CODE BELOW
+    p = 5
