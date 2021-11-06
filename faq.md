@@ -15,3 +15,4 @@ grade_ex1a(qiskit_module_names)
 Yes it is possible. But we strongly recommend you solve the exercises on the [challenge portal](http://ibm.co/challenge-fall-21). If you really want to run the exercises locally, you can download the notebooks from the [challenge repository](http://ibm.co/challenge-fall-21-repo) and run using Jupyter notebook.
 
 #### Can we check answers on a local computer?
+
