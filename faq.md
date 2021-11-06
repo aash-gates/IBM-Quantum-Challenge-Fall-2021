@@ -25,3 +25,4 @@ No, you can run all exercises on the [challenge portal](http://ibm.co/challenge-
 #### Do I need to take the exercises in order?
 
 We encourage you complete the exercises in the given order as this is the intended structure for the challenge. However, you may take the exercises in any order.
+
