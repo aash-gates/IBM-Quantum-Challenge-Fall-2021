@@ -36,3 +36,4 @@ We have a lot of participants at the moment. Please be patient, wait and try aga
 
 #### I encountered this error `401 : Unauthorized You are not Authenticated to do this (1)` What should I do?
 
+Please try the following on a notebook on Quantum Lab?
