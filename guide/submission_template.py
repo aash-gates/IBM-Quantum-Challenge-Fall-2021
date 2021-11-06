@@ -153,3 +153,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
 
     ### measure the index ###
     ### since the default measurement outcome is shown in big endian, it is necessary to reverse the classical bits in order to unify the endian ###
+    qc.measure(qr_index, cr_index[::-1])
