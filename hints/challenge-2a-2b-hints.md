@@ -16,3 +16,4 @@ num_ao = {
 * [See this tutorial doc on Property framework](https://qiskit.org/documentation/nature/tutorials/08_property_framework.html)
 * Try to find out how you can use property framework to get `ParticleNumber`.
 * Use the `ParticleNumber` to find out the number of electrons, MO, SO, and number of qubits.
+* The number of qubits is the same as the number of spin orbitals which is double the number of MO. Watch the [Qiskit Nature Demo Session with Max Rossmannek](https://www.youtube.com/watch?v=UtMVoGXlz04&t=38s) for more details.
