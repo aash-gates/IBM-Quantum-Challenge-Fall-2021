@@ -136,3 +136,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
         ### return part ###
         qc.append(phase_return(index_qubits, gamma, L1, L2), qr_index)
 
+        ### step 1: cost calculation ###
