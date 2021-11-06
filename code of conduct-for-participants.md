@@ -8,3 +8,4 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 
 *As this event is a challenge, sharing solutions/answers is strictly forbidden and can lead to potential disqualification from the event. We encourage you to ask questions in the dedicated Slack channel [#challenge-fall-2021](https://ibm.co/IQC21F_Slack) if you need additional guidance.*
 
+## IBM Quantum Challenge Fall 2021 Event Values
