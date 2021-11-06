@@ -10,3 +10,4 @@ from qc_grader import grade_ex1a
 grade_ex1a(qiskit_module_names)
 ```
 
+#### Can I run the challenge notebooks on a local computer?
