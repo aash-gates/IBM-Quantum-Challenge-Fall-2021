@@ -12,3 +12,4 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 
 - **Be Engaged:** Connect with each other & have FUN!
 - **Be Inclusive:** Use shared language, be empathetic, & be aware of cultures and backgrounds
+- **Be Respectful:** Respect each other, & use respectful language
