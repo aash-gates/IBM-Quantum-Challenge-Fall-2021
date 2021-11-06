@@ -8,3 +8,4 @@ TODO:
 2. Write a summary of your approach in the header and highlight
 the techniques that gave you the biggest improvement
 3. Import all required libraries and modules
+4. Print author name and score inside the `solver_function`
