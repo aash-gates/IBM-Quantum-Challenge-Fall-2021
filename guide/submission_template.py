@@ -28,3 +28,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
     # TODO 4: add your name and score here
     # print name and score
     author = 'Firstname Lastname'
+    score = 312345
