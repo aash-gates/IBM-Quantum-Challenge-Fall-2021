@@ -132,3 +132,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
         ### set fixed parameters for each round ###
         beta = 1 - (i + 1) / p
         gamma = (i + 1) / p
+
