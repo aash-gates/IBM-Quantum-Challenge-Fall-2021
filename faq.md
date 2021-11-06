@@ -26,3 +26,4 @@ No, you can run all exercises on the [challenge portal](http://ibm.co/challenge-
 
 We encourage you complete the exercises in the given order as this is the intended structure for the challenge. However, you may take the exercises in any order.
 
+#### Do I need an IBMid associated with my IBM Quantum Account?
