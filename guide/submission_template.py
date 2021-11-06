@@ -35,3 +35,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
     index_qubits = len(L1)
 
     # the maximum possible total cost
+    max_c = sum([max(l0, l1) for l0, l1 in zip(C1, C2)])
