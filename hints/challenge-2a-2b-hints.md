@@ -12,3 +12,4 @@ num_ao = {
 ```
 
 **Challenge-2b:**
+* Use the get_property function to get properties from `ElectronicEnergy`. Make sure that the **driver is reduced**.
