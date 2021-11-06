@@ -17,3 +17,4 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 - **Be Honest:** To ensure a positive learning experience for everyone, do not share the answers to the exercises with any participant or publicly within the Slack channel. We are all here to learn & have fun together!
 - **Be You!!!** Share about yourself and your goals, be real, be genuine, & let yourself be comfortable
 
+Throughout the event, in the case that you may encounter any offensive behavior or violations of the Qiskit Community Code of Conduct, we encourage you to report the violation by submitting [this form](https://airtable.com/shrl5mEF4Eun1aIDm). All reports are treated with the strictest level of confidentiality, and we have an absolute zero-tolerance policy on any form of retaliation.
