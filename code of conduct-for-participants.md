@@ -5,3 +5,4 @@ The IBM Quantum Challenge Fall 2021 and the Qiskit Community team are committed 
 We have zero tolerance for any type of harassment, and welcome each and every attendee as you support these values and make this hackathon and the Qiskit Community a friendly and open space for everyone.
 
 [Click here to Review Qiskit Community Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md#our-pledge)
+
