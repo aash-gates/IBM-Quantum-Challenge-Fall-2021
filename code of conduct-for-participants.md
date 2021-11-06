@@ -11,3 +11,4 @@ We have zero tolerance for any type of harassment, and welcome each and every at
 ## IBM Quantum Challenge Fall 2021 Event Values
 
 - **Be Engaged:** Connect with each other & have FUN!
+- **Be Inclusive:** Use shared language, be empathetic, & be aware of cultures and backgrounds
