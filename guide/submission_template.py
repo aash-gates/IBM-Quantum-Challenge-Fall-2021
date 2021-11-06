@@ -117,3 +117,4 @@ def solver_function(L1: list, L2: list, C1: list, C2: list, C_max: int) -> Quant
 
     qr_index = QuantumRegister(index_qubits, "index")  # index register
     qr_data = QuantumRegister(data_qubits, "data")  # data register
+    qr_f = QuantumRegister(1, "flag")  # flag register
