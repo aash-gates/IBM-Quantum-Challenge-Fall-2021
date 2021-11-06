@@ -47,3 +47,4 @@ You can find your token here: https://quantum-computing.ibm.com/account. Make s
 Run the code below to check if authentication is working. If you see a long string in the output, it means 401 error has been resolved.
 
 ```python
+from qc_grader.api import get_access_token
