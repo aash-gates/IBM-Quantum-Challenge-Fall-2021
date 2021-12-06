@@ -33,3 +33,4 @@ For a guide on setting up Qiskit on your own computer, have a look at the ['Gett
 
 ```bash
 pip install qiskit[all]
+```
