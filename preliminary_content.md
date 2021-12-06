@@ -31,3 +31,4 @@ If you struggle to maintain a stable internet connection to the IBM Quantum Chal
 
 For a guide on setting up Qiskit on your own computer, have a look at the ['Getting Started'](https://qiskit.org/documentation/getting_started.html) page in the Qiskit documentation. When you install Qiskit using pip, make sure you run the following command instead of that provided by the Qiskit documentation. This will make sure you have the correct dependencies.
 
+```bash
