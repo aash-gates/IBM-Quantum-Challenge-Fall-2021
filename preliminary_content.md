@@ -25,3 +25,4 @@ We are also planning to launch a two-part livestream series on Qiskit YouTube ch
 
 You can watch the replay [here](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrKOTLs5ESjAmg9Lz8G1PON) if you missed the livestream.
 
+## Working on the Challenges locally
