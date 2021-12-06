@@ -10,3 +10,4 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 - [Qiskit Textbook: Linear Algebra Chapter](https://qiskit.org/textbook/ch-appendix/linear_algebra.html)
 
 ## Python Crash Course
+
