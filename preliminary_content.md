@@ -7,4 +7,5 @@ In preparation for the first week of the challenge, you should make yourself fam
 Most quantum computing algorithms require an understanding of linear algebra to formulate the problem. However, you need not be an expert on the topic to complete the IBM Quantum Challenge Fall 2021. Here are  the resource that can help you learn or brush-up on the foundations of linear algebra and matrices.
 
 
+- [Qiskit Textbook: Linear Algebra Chapter](https://qiskit.org/textbook/ch-appendix/linear_algebra.html)
 
