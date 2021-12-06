@@ -23,3 +23,4 @@ We are also planning to launch a two-part livestream series on Qiskit YouTube ch
 - [Part 1 - October 8 at 10:00 AM (EDT)](https://youtu.be/claoY57eVIc): Qiskit Optimization & Machine Learning Demo Session with Atsushi Matsuo & Anton Dekusar
 - [Part 2 - October 15 at 10:00 AM (EDT)](https://youtu.be/UtMVoGXlz04): Qiskit Nature & Finance Demo Session with Max Rossmannek & Julien Gacon
 
+You can watch the replay [here](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrKOTLs5ESjAmg9Lz8G1PON) if you missed the livestream.
