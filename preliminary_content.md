@@ -19,3 +19,4 @@ Make sure you have registered on the [IBM Quantum platform](http://ibm.co/challe
 
 
 ## Qiskit YouTube livestream for four Qiskit application modules
+We are also planning to launch a two-part livestream series on Qiskit YouTube channel for you to learn and explore all four Qiskit application modules:
