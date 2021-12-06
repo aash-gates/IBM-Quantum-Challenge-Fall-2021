@@ -29,3 +29,4 @@ You can watch the replay [here](https://www.youtube.com/playlist?list=PLOFEBzvs-
 
 If you struggle to maintain a stable internet connection to the IBM Quantum Challenge platform, you can download the notebooks from this repo. Note that the challenge notebooks will only be available from the start of the challenge (27 October @ 09:00 EDT).
 
+For a guide on setting up Qiskit on your own computer, have a look at the ['Getting Started'](https://qiskit.org/documentation/getting_started.html) page in the Qiskit documentation. When you install Qiskit using pip, make sure you run the following command instead of that provided by the Qiskit documentation. This will make sure you have the correct dependencies.
