@@ -27,3 +27,4 @@ You can watch the replay [here](https://www.youtube.com/playlist?list=PLOFEBzvs-
 
 ## Working on the Challenges locally
 
+If you struggle to maintain a stable internet connection to the IBM Quantum Challenge platform, you can download the notebooks from this repo. Note that the challenge notebooks will only be available from the start of the challenge (27 October @ 09:00 EDT).
